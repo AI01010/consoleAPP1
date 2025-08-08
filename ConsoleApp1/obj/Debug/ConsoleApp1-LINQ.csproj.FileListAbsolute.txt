@@ -1,0 +1,7 @@
+C:\Users\gt129800\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\gt129800\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\gt129800\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\gt129800\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1-LINQ.csproj.AssemblyReference.cache
+C:\Users\gt129800\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1-LINQ.csproj.CoreCompileInputs.cache
+C:\Users\gt129800\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\gt129800\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
